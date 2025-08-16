@@ -3,7 +3,7 @@
 This repo contains a 3‑stage workflow for building and improving a **Convolutional Neural Network (CNN)** image classifier using **PyTorch**. Follow **Steps 1 → 2 → 3** to reproduce results and iterate on model quality.
 
 > **Dataset link:**
-> **`[<ADD_DATASET_LINK_HERE>](https://www.kaggle.com/datasets/ryanbadai/clothes-dataset)`**
+> **`(https://www.kaggle.com/datasets/ryanbadai/clothes-dataset)`**
 
 ---
 
